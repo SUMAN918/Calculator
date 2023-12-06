@@ -1,0 +1,29 @@
+.clear{
+    width: 150px;
+}
+
+.formstyle{
+    height: 100%;
+    width: 165px;
+    margin: 20vh auto;
+    border: 2px solid #000;
+    background-color: rgb(121, 226, 226);
+}
+
+input{
+    width: 40px;
+    margin: 6px;
+    background-color: rgb(23, 61, 58);
+    color: #fff;
+}
+
+.answer{
+    width: 145px;
+}
+
+.name{
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 8px;
+    letter-spacing: 2px;
+}
